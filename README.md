@@ -33,7 +33,7 @@ Please contact https://github.com/OZ4Tech with any questions
 
 ## App Preview
 
-![App Preview]()
+![Note Taker](https://user-images.githubusercontent.com/103383531/187008639-2962efca-feb7-4a37-8557-b9270ef578ee.gif)
 
 ## Deployed App Link
 
