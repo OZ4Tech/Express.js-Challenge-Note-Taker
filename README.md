@@ -37,4 +37,4 @@ Please contact https://github.com/OZ4Tech with any questions
 
 ## Deployed App Link
 
-Click [HERE]() to see our deployed app.
+Click [HERE](https://oz4tech.github.io/Express.js-Challenge-Note-Taker/) to see our deployed app.
