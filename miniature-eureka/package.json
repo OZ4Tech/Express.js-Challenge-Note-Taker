@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "json:server": "json-server -- db.json",
+    "start": "node server.js"
+  },
+  "name": "express.js-challenge-note-taker",
+  "version": "1.0.0",
+  "description": "Note Taker",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OZ4Tech/Express.js-Challenge-Note-Taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OZ4Tech/Express.js-Challenge-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/OZ4Tech/Express.js-Challenge-Note-Taker#readme"
+}
